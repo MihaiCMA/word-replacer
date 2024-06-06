@@ -13,7 +13,7 @@ Simple word replaced made with Python. Can be used to replace words in a docx te
 ![image](https://github.com/MihaiCMA/word-replacer/assets/42008272/14ccd883-a5a3-4f4b-8876-33a911f6d92d)
 
 4.Press the replace button
-<a href="url"><img src="[http://url.to/image.png](https://github.com/MihaiCMA/word-replacer/assets/42008272/989c621f-0a39-408e-bfdb-aafa7b8b2424)" align="left" height="200" width="400" ></a>
+<a href="url"><img src="http://url.to/image.png](https://github.com/MihaiCMA/word-replacer/assets/42008272/989c621f-0a39-408e-bfdb-aafa7b8b2424" align="left" height="200" width="400" ></a>
 ![image](https://github.com/MihaiCMA/word-replacer/assets/42008272/989c621f-0a39-408e-bfdb-aafa7b8b2424)
 
 ![image](https://github.com/MihaiCMA/word-replacer/assets/42008272/cb581aca-ad83-4a0f-835b-3c3121c1171b)
